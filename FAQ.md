@@ -201,6 +201,14 @@ However, common grounds for exclusion from yt-dlp are:
 
 Any of these reasons are enough for a site to be excluded from yt-dlp.
 
+
+### Why does yt-dlp not support downloading DRM-protected content?
+
+[Digital Rights Management](https://en.wikipedia.org/wiki/Digital_rights_management) is a technological protection measure intended to prevent unauthorized copying and distribution of copyrighted digital material.
+Many countries have laws that make it illegal to circumvent DRM or create tools for that purpose.
+Therefore, yt-dlp does not and will not support downloading DRM-protected content.
+
+
 ### How do I find out if a video is DRM-protected?
 
 Step 1: Start by checking whether the video can be played in your web browser, after disabling DRM technologies on it:
